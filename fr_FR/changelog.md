@@ -1,9 +1,12 @@
-# Changelog
-## ** Changelog détaillé ** :
-Détail complet des mises à jour sur [Historique > Commit](https://limad.github.io/plugin-migoThermostat)
+---
+title: Jeedom | Plugin dspsmartplug
+description: Monitoring des équipement dspsmartplug w215.
+---
 
-Liste des évolutions majeures de la version courante :
+## Changelog
+>*Liste non-exhaustive. Les changements mineurs et/ou correction de bugs ne figurent pas forcément ici.*
 
-* Version 1.1
-  * Installation de plugins
-  * Mise à jour de plugin
+### 27/12/2019
+* Mise en conformité pour PHP-7.3(Buster)
+* Mise en conformité pour Jeedom V4
+* ...
