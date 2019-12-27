@@ -7,8 +7,6 @@ La configuration des équipements dspsmartplug est accessible à partir du menu 
 
 ![configuration3](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot1.PNG)
 
-  https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot4.PNG
-
 Comme à beaucoup d’endroits sur Jeedom, placer la souris tout à gauche permet de faire apparaître un menu d’accès rapide (vous pouvez à partir de votre profil le laisser toujours visible).
 Une fois que vous cliquez sur un équipement vous obtenez :
 
