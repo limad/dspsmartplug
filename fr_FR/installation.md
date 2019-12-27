@@ -1,7 +1,7 @@
 # Comment installer ce plugin ?
 
 1. Rendez vous sur la page du market Jeedom et télecharger la dérniere versionrsion du plugin
-![install1](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot8.PNG)
+![install1]()
 
 2. Une fois le plugin installé, il vous faut renseigner vos informations de connexion:
 
