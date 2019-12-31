@@ -5,13 +5,11 @@
 
 La configuration des équipements dspsmartplug est accessible à partir du menu plugin :
 
+- Créer un nouveau équiupement correspondant à une prise et lui donner le nom de votre choix.
+- Cliquer sur l'icone de l'équipement
 ![configuration3](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot1.PNG)
 
-Comme à beaucoup d’endroits sur Jeedom, placer la souris tout à gauche permet de faire apparaître un menu d’accès rapide (vous pouvez à partir de votre profil le laisser toujours visible).
 Une fois que vous cliquez sur un équipement vous obtenez :
-
-
-Vous retrouvez ici toute la configuration de votre équipement :
 
 **Nom de l’équipement** : nom de votre équipement 
 
@@ -24,6 +22,22 @@ Vous retrouvez ici toute la configuration de votre équipement :
 **Identifiant** : identifiant unique de l’équipement
 
 **Type** : type de votre équipement
+
+ ## Informations spécifiques à la prise 
+
+Toujours dans la page de l'équipement, il faut renseigner les informations de connexion:
+
+      **Adresse IP de l'équipement:** l'adresse ip du plug.
+
+      **Mot de passe:** Mot de passe du plug.
+
+**! IMPORTANT !! Cliquer sur Sauvegarder **: Celà permet de synchroniser Jeedom avec votre module dlink . 
+
+!! A faire après avoir sauvegardé les paramètres précedent.
+
+  
+5. Penser à choisir un cron( 5 ou 1min) et sauvegarder
+![install3](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot3.PNG)
 
 
 
