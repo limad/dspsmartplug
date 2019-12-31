@@ -17,8 +17,10 @@ Ce plugin vous donnera la possibilité de :
 
 ## Aperçu du plugin
 
-### Page du plugin
+### Page du plugin:
 ![screenshot1](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot1.PNG)
              
-### Configuration
+### Tuile:
 ![screenshot1](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot6.PNG)
+
+### lien du plugin:<a href="https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&name=DSP-W215&certification=Obsol%C3%A8te">DSP-W215</a>
