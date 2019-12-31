@@ -35,11 +35,11 @@ Elles sont classées par type ; infos ou actions
 
 ![configuration3](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot5.PNG)
 
-![configuration3](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot5.PNG)
-
 
 **historiser** : permet d’historiser la donnée de la commande "Info" selectionnée
 
 **configuration avancée** (petites roues crantées) : permet d’afficher la configuration avancée de la commande (méthode d’historisation, widget…​)
+
 **Evaluer**: retourne la valeur de la commande "Info" selectionnée
+
 **Tester** : permet de tester la commande "Action" selectionnée
