@@ -20,8 +20,5 @@ Ce plugin vous donnera la possibilité de :
 ### Page du plugin
 ![screenshot1](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot1.PNG)
              
-### Installation d'un plugin
-![screenshot1](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot8.PNG)
-
 ### Configuration
 ![screenshot1](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot6.PNG)
