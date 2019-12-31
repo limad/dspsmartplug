@@ -7,6 +7,7 @@ La configuration des équipements dspsmartplug est accessible à partir du menu 
 
 - Créer un nouveau équiupement correspondant à une prise et lui donner le nom de votre choix.
 - Cliquer sur l'icone de l'équipement
+
 ![configuration3](https://raw.githubusercontent.com/limad/plugin-dspsmartplug/master/images/dspsmartplug_screenshot1.PNG)
 
 Une fois que vous cliquez sur un équipement vous obtenez :
